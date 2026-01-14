@@ -23,6 +23,8 @@ Passionate about transforming data into actionable business insights using dashb
 ### Portfolio
 https://github.com/rahilrahma/data-business-analyst-portfolio.git
 
+---
+
 ## 📌 Featured Projects
 - 📈 **Stock Market Analysis (Power BI)**  
  https://github.com/rahilrahma/project-powerbi.git
