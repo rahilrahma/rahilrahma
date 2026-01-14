@@ -17,7 +17,17 @@ Passionate about transforming data into actionable business insights using dashb
 - **Data Analysis:** Excel, SQL, Python (Pandas, NumPy)  
 - **Analytics:** EDA, KPI Analysis, Trend Analysis  
 - **Machine Learning:** Regression, Tree-based Models
-- 
+
+## 📌 Featured Projects
+- 📈 **Stock Market Analysis (Power BI)**  
+ https://github.com/rahilrahma/project-powerbi.git
+
+- 🛒 **Retail Sales Dashboard (Excel)**  
+ https://github.com/rahilrahma/projects-excel-BI.git
+
+- 🤖 **Machine Learning Project**  
+  https://github.com/rahilrahma/python-project.git
+  
 ---
 
 ## 📫 Connect With Me
