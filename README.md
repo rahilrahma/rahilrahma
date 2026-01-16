@@ -29,7 +29,7 @@ https://github.com/rahilrahma/data-business-analyst-portfolio.git
 - 📈 **Stock Market Analysis (Power BI)**  
  https://github.com/rahilrahma/project-powerbi.git
 
-- 🛒 **Retail Sales Dashboard (Excel)**  
+- 🛒 **E-commerce Sales Dashboard (Excel)**  
  https://github.com/rahilrahma/projects-excel-BI.git
 
 - 🤖 **Machine Learning Project**  
