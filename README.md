@@ -33,11 +33,11 @@ https://github.com/rahilrahma/data-business-analyst-portfolio.git
  https://github.com/rahilrahma/projects-excel-BI.git
 
 - 🏨 **International 5 Star Hotel Review Analysis Dashboard(Tableau)**
-  https://github.com/rahilrahma/Tableau-project.git
+ https://github.com/rahilrahma/Tableau-project.git
   
 
 - 🤖 **Machine Learning Project**  
-  https://github.com/rahilrahma/python-project.git
+ https://github.com/rahilrahma/python-project.git
   
 ---
 
