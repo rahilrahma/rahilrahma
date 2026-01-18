@@ -32,6 +32,9 @@ https://github.com/rahilrahma/data-business-analyst-portfolio.git
 - 🛒 **E-commerce Sales Dashboard (Excel)**  
  https://github.com/rahilrahma/projects-excel-BI.git
 
+- 🏨 **International 5 Star Hotel Review Analysis Dashboard(Tableau)**
+  
+
 - 🤖 **Machine Learning Project**  
   https://github.com/rahilrahma/python-project.git
   
